@@ -1,0 +1,12 @@
+.banner-image {
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    
+}
+.text-white{
+    margin-left: 60px;
+}
+.row{
+    background-color: #922a52;
+    height: 100px;
+}
